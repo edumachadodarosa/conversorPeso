@@ -1,6 +1,10 @@
 ## Conversor de Peso
 
 
+
+https://github.com/edumachadodarosa/conversorPeso/assets/145352273/e6cb4c26-bcc6-4f55-aa5d-fad292eabe77
+
+
 Este é um simples conversor de peso de quilogramas (KG) para libras (Lbs) desenvolvido utilizando HTML, CSS e JavaScript. O aplicativo consiste em uma interface minimalista e amigável que permite aos usuários inserirem o peso em quilogramas, com a resposta instantânea exibindo o equivalente em libras.
 
 
