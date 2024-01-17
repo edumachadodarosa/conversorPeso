@@ -44,7 +44,7 @@ Cores: O esquema de cores apresenta tons de aço e marrom para criar uma aparên
 Responsividade: A aplicação é projetada para ser responsiva, adaptando-se a diferentes tamanhos de tela.
 
 
-Contribuição
+## Contribuição
 
 
 Contribuições são bem-vindas! Sinta-se à vontade para propor melhorias, corrigir bugs ou adicionar novos recursos. Basta seguir as diretrizes de contribuição.
